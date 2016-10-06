@@ -6,5 +6,6 @@ void main()
 	printf("sujung\n");
 	printf("bug456\n");
 	printf("bug456_d\n");
+	printf("conflict\n");
 	return;
 }
