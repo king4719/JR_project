@@ -3,6 +3,7 @@
 void main()
 {
 	printf("hello\n");
-	printf("sujung\n";
+	printf("sujung\n");
+	printf("bug123\n");
 	return;
 }
